@@ -15,9 +15,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=visual-studio-code)
 
-### 📊 My stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Krejza9&theme=blue-green)
-
 <!--
 **Krejza9/Krejza9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
