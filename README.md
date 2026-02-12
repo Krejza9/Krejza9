@@ -51,6 +51,9 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FC801D?style=for-the-badge&logo=intellijidea&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-22D88F?style=for-the-badge&logo=clion&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-8B5CF6?style=for-the-badge&logo=datagrip&logoColor=white)
 
 ---
 
